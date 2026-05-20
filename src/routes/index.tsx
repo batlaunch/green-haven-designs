@@ -328,7 +328,7 @@ function Index() {
             <h4 className="text-sm font-semibold uppercase tracking-wider text-gold">Contact</h4>
             <ul className="mt-5 space-y-3 text-sm text-primary-foreground/85">
               <li><a href="tel:+14349531814" className="hover:text-gold transition flex items-center gap-2"><Phone className="w-4 h-4" /> (434) 953-1814</a></li>
-              <li><a href="mailto:beautifullandscapesllc@gmail.com" className="hover:text-gold transition flex items-start gap-2 break-all"><Mail className="w-4 h-4 mt-0.5 shrink-0" /> beautifullandscapesllc@gmail.com</a></li>
+              <li><a href="mailto:beautifullandscapesllc@gmail.com" className="hover:text-gold transition flex items-start gap-2 break-all"><Mail className="w-4 h-4 mt-0.5 shrink-0" /><span>beautifullandscapesllc@gmail.com</span></a></li>
               <li className="flex items-center gap-2"><MapPin className="w-4 h-4" /> Virginia, USA</li>
             </ul>
           </div>
